@@ -1,0 +1,11 @@
+<litepal>
+    <dbname value="jhon_weather"/>
+        <version value="1"/>
+    <list>
+        <mapping class="com.JhonWeather.db.Province"/>
+        <mapping class="com.JhonWeather.db.City"/>
+        <mapping class="com.JhonWeather.db.County"/>
+    </list>
+
+
+</litepal>
